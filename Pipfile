@@ -12,8 +12,12 @@ pytest = "*"
 pytest-watch = "*"
 schematics = "*"
 dependency-injector = "*"
+arrow = "*"
+eventsourcing = "*"
+mashumaro = "*"
 
 [dev-packages]
+mypy = "*"
 pylint = "*"
 ptvsd = "*"
 pre-commit = "*"
